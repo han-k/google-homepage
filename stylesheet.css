@@ -1,0 +1,56 @@
+div {
+	display:inline-block;
+	height:50;
+	width:50;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color:blue;
+}
+
+a:visited {
+	color:green;
+}
+
+a:active {
+	color:yellow;
+}
+
+a:hover {
+	color:red;
+}
+
+
+#topleft {
+	border: 1px solid black;
+}
+
+#topmiddle {
+	width:850px;
+}
+
+#toptext {
+	color:gray;
+	margin:5px 0px 200px 20px;
+
+}
+
+.topbar {
+
+}
+
+#middle {
+	
+	position: relative;
+	left:325px;
+}
+
+form {
+	position: relative;
+	left:150px;
+}
