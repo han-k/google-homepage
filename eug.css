@@ -1,0 +1,48 @@
+#logo {
+	display:block;
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#searchbar {
+	width:50%;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+a {
+	text-decoration: none;
+	color:black;
+}
+
+a:hover {
+	color:black;
+	text-decoration: underline;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	display:inline;
+	float:left;
+	width:100px;
+}
+
+.top {
+	float:right;
+}
+
+.bottom {
+	float:right;
+}
+
+.bottomspace{
+	width:60%;
+	margin-right: auto;
+	margin-left:auto;
+}
